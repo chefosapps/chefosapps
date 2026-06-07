@@ -47,7 +47,7 @@ Construo produtos digitais que resolvem problemas reais do mercado brasileiro, c
 | Frontend | Backend | Infra & Integrações |
 |:---------:|:-------:|:------------------:|
 | ⚛️ React | 🟩 Node.js | 🟢 Supabase |
-| 🔷 TypeScript | 🚂 Express | 💬 Z-API (WhatsApp) |
+| 🔷 TypeScript | 🚂 Express | 💬 Baileys (WhatsApp) |
 | 🎨 Tailwind CSS | 🗄️ PostgreSQL | 💳 Mercado Pago PIX |
 | ⚡ Lovable AI | 🔐 JWT / RLS | 🤖 Claude AI (Anthropic) |
 
@@ -64,7 +64,7 @@ Construo produtos digitais que resolvem problemas reais do mercado brasileiro, c
 - 🧾 PDV · 📺 KDS · 📱 Cardápio QR Code · 🛵 Delivery
 - 💰 Financeiro · 👥 CRM · 📦 Estoque · 👨‍💼 Funcionários
 - 🤖 **Chef AI** — assistente inteligente nativo
-- 💬 WhatsApp via Z-API · 💳 PIX via Mercado Pago
+- 💬 WhatsApp via Baileys · 💳 PIX via Mercado Pago
 - 🏢 Arquitetura **multi-tenant** | Planos: **R$59 · R$97 · R$197/mês**
 
 ![Multi-tenant](https://img.shields.io/badge/multi--tenant-✓-brightgreen)
